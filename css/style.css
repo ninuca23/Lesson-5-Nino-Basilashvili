@@ -1,0 +1,243 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-square/css/bpg-square.min.css");
+@import url("//cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
+
+.container {
+  width: 1350px;
+  margin: 52px auto;
+}
+
+.container1 {
+  width: 1350px;
+  margin: auto;
+}
+
+.logo {
+  vertical-align: middle;
+}
+
+.list,
+a {
+  font-size: 26px;
+  font-weight: 700;
+  color: #8d81ff;
+  display: inline-block;
+}
+
+li {
+  font-family: "FiraGO Bold";
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 60px;
+}
+
+.active {
+  color: #4e6fae;
+}
+
+/* 26 27 28 */
+.boxdate {
+  background-color: #5012d5;
+  font-family: Helvetica;
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  font-weight: 400;
+  color: #84ff81;
+  padding: 10px;
+  border: red solid 3px;
+  margin-bottom: 18px;
+}
+
+h3 {
+  font-family: "BPG Nino Mkhedruli", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 32px;
+  color: #8d81ff;
+}
+
+.head {
+  font-family: gl-tatishvili-metal-bold;
+  font-size: 20px;
+  font-weight: 700;
+  color: #4e6fae;
+  margin-bottom: 13px;
+}
+
+.paragraph {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #4e6fae;
+  width: 778px;
+  height: 281px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 66px;
+}
+
+.firstp {
+  font-family: "BPG Square", sans-serif;
+}
+
+.secondp {
+  font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+/*  1 2 poto */
+.photo {
+  display: inline-block;
+  margin-bottom: 155px;
+}
+
+.article3 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: left;
+  width: 1021px;
+  height: 148px;
+  color: #4e6fae;
+  margin-top: 32px;
+  font-family: "BPG Nostalgia", sans-serif;
+}
+
+.logos {
+  margin: 145px 41px 50px 0px;
+}
+
+/* news */
+
+.newscontainer {
+  width: 1052px;
+  margin: auto;
+}
+
+.mainimage {
+  margin-bottom: 120px;
+}
+
+.news {
+  height: 34px;
+  font-family: "BPG Nostalgia", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  color: #4e6fae;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.newsline {
+  display: inline-block;
+  background-color: #5012d5;
+  margin-right: 18px;
+  margin-left: 18px;
+  width: 2px;
+  height: 24px;
+  vertical-align: top;
+}
+
+.newsall {
+  color: #4e6fae;
+  display: inline-block;
+  font-family: FiraGO;
+  font-size: 26px;
+  font-weight: 200px;
+  vertical-align: top;
+  font-family: "BPG Nostalgia", sans-serif;
+}
+
+.box1 {
+  width: 500px;
+  height: 192px;
+  background-color: #e7e7e7;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 26px;
+}
+
+.box2 {
+  width: 500px;
+  height: 192px;
+  background-color: #e7e7e7;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 26px;
+  margin-left: 46px;
+}
+
+.web {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin: 21px 0px 0px 23px;
+  color: #3f4145;
+}
+
+.webparagraph {
+  font-family: "Roboto", sans-serif;
+  display: inline-block;
+  width: 335px;
+  height: 95px;
+  margin-top: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  text-align: left;
+  color: #7e8898;
+}
+
+.webimage {
+  display: inline-block;
+  width: 77px;
+  height: 77px;
+  margin: 0px 37px 0px 38px;
+}
+
+/* contact */
+
+.mapcontainer {
+  width: 1660px;
+  margin: 0 auto;
+  background-color: #e7e7e7;
+}
+
+.information {
+  display: inline-block;
+  margin: 93px 0px 0px 162px;
+  vertical-align: top;
+}
+
+.map {
+  display: inline-block;
+  width: 944px;
+  height: 549px;
+  margin: 93px 0px 0px 40px;
+}
+
+.contactinformation {
+  font-family: "Trebuchet MS";
+  font-size: 36px;
+  font-weight: 700;
+  text-align: left;
+  color: #4e6fae;
+  width: 474px;
+  height: 34px;
+  margin-bottom: 27px;
+}
+
+.main {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+  color: #7e8898;
+  margin-bottom: 23px;
+}
+
+span {
+  color: #3f4145;
+}
